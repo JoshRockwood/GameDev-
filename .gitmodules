@@ -1,0 +1,9 @@
+[submodule "ThisPc/LocalDisk(C:)/git/Tools"]
+	path = ThisPc/LocalDisk(C:)/git/Tools
+	url = https://github.com/JoshRockwood/Tools.git
+[submodule "LocalDisk(C:)/git/Tools"]
+	path = LocalDisk(C:)/git/Tools
+	url = https://github.com/JoshRockwood/Tools.git
+[submodule "git/Tools"]
+	path = git/Tools
+	url = https://github.com/JoshRockwood/Tools.git

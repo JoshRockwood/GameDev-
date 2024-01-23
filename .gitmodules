@@ -4,3 +4,6 @@
 [submodule "LocalDisk(C:)/git/Tools"]
 	path = LocalDisk(C:)/git/Tools
 	url = https://github.com/JoshRockwood/Tools.git
+[submodule "GameDev-/MatchGame/Assets/Tools"]
+	path = GameDev-/MatchGame/Assets/Tools
+	url = https://github.com/JoshRockwood/Tools.git

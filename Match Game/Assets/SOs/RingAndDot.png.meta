@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 33bf0ec3022e53540ab1e6c34945d32a
+guid: eb149856a2b8bbd4589bb01b2c689af7
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -113,19 +113,19 @@ TextureImporter:
       name: Ring
       rect:
         serializedVersion: 2
-        x: 84
-        y: 989
-        width: 2006
-        height: 1967
+        x: 80
+        y: 988
+        width: 2014
+        height: 1971
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 98b325488aae251408827a11709182a3
-      internalID: -1205021086
+      spriteID: ab9bde32c6d972941b24ec31797974a7
+      internalID: 2045132508
       vertices: []
       indices: 
       edges: []
@@ -139,14 +139,14 @@ TextureImporter:
         width: 1575
         height: 1515
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ebdd2dacc9e96df45b67c389eda13d21
-      internalID: -945068859
+      spriteID: b9417b85c23b344479d52441ec34c2c3
+      internalID: -251577842
       vertices: []
       indices: 
       edges: []
@@ -162,8 +162,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Dot: -945068859
-      Ring: -1205021086
+      Dot: -251577842
+      Ring: 2045132508
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -10,6 +10,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9cff053d54bff10438828e4cba2b431a, type: 3}
-  m_Name: V3A
+  m_Name: DotSpawn4
   m_EditorClassIdentifier: 
-  value: {x: 3, y: 6, z: 0}
+  value: {x: 5, y: -3.75, z: 0}

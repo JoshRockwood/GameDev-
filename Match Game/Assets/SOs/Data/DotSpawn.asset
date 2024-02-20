@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2271f8b221529341bcc9766847d51aa, type: 3}
+  m_Name: DotSpawn
+  m_EditorClassIdentifier: 
+  vector3DList:
+  - {fileID: 11400000, guid: 82ddfc9ee2534d749bf858eca5f3bcb9, type: 2}
+  - {fileID: 11400000, guid: f07b32cd70985b04d947778a9deb023e, type: 2}
+  - {fileID: 11400000, guid: 93916dda3f28689448cc4106bc35156d, type: 2}
+  - {fileID: 11400000, guid: c8eec4f9b41398f488c355c887205462, type: 2}
+  - {fileID: 11400000, guid: 17b5a276489bedd4ab1261b907ee1a25, type: 2}
+  - {fileID: 11400000, guid: a3ac67b6d5601574d90db218474d285e, type: 2}
+  - {fileID: 11400000, guid: f50f8d713f13a3741aa21f057645a021, type: 2}
